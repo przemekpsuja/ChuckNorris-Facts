@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChuckNorris Facts</string>
+    <string name="button_text">Get new fact!</string>
+</resources>
